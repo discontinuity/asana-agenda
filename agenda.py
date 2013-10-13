@@ -20,7 +20,7 @@ from urllib import urlencode
 task_fields = "name,assignee,due_on,projects"
 meeting_tag_name = "Meeting"
 workspace_name = "Adina's Team!" #should be whatever workspace is shared. Personal here for example use only
-api_key = "2jj5oZMd.owh3Upf4UjCTj6XkQK7LCLx"
+api_key = #heh heh, oops. put your own api key in here ;)
 asana_URL = "https://app.asana.com/api/1.0/"
 
 def format_task(rttsk, level):
